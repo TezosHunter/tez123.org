@@ -1,70 +1,96 @@
 [
-  {
-    "tag": "热门推荐",
-    "tag_en":"Home"
-  },
-  {
-    "tag": "社区",
-    "tag_en":"Community"
-  },
-  {
-    "tag": "浏览器",
-    "tag_en":"Explorer"
-  },
-  {
-    "tag": "文档",
-    "tag_en":"Documentation"
-  },
-  {
-    "tag": "Eth2 资源",
-    "tag_en":"Eth2 Resources"
-  },
-  {
-    "tag": "DeFi",
-    "tag_en":"DeFi"
-  },
-  {
-    "tag": "Layer2",
-    "tag_en":"Layer2"
-  },
-  {
-    "tag": "DAO",
-    "tag_en":"DAO"
-  },
-  {
-    "tag": "数据分析",
-    "tag_en":"Data Analysis"
-  },
-  {
-    "tag": "工具",
-    "tag_en":"Tools"
-  },
-  {
-    "tag": "钱包",
-    "tag_en":"Wallet"
-  },
-  {
-    "tag": "客户端",
-    "tag_en":"Client"
-  },
-  {
-    "tag": "预言机",
-    "tag_en":"Oracle"
-  },
-  {
-    "tag": "应用",
-    "tag_en":"dApp"
-  },
-  {
-    "tag": "开发者资源",
-    "tag_en":"Developer Resources"
-  },
-  {
-    "tag": "资讯/博客",
-    "tag_en":"Newsletter/Blog"
-  },
-  {
-    "tag": "其它",
-    "tag_en":"Others"
-  }
+  
+   {
+      "tag":"Community",
+   },
+   {
+      "tag":"Wallet",
+   },
+   {
+      "tag":"Explorer",
+   },
+   {
+      "tag":"Information",
+   },
+   {
+      "tag":"Price",
+   },
+   {
+      "tag":"Exchange",
+   },
+   {
+      "tag":"DEX",
+   },
+   {
+      "tag":"Lending",
+   },
+   {
+      "tag":"Derivatives",
+   },
+   {
+      "tag":"Insurance",
+   },
+   {
+      "tag":"Stablecoin",
+   },
+   {
+      "tag":"Bitcoin-pegged Token",
+   },
+   {
+      "tag":"Asset Management",
+   },
+   {
+      "tag":"Other DeFi",
+   },
+   {
+      "tag":"Data Analysis",
+   },
+   {
+      "tag":"Layer 2",
+   },
+   {
+      "tag":"Tool",
+   },
+   {
+      "tag":"Tezos Client",
+   },
+   {
+      "tag":"Documentation",
+   },
+   {
+      "tag":"Developer Resources",
+   },
+   {
+      "tag":"Security",
+   },
+   {
+      "tag":"Infrastructure",
+   },
+   {
+      "tag":"Blog",
+   },
+   {
+      "tag":"Podcast",
+   },
+   {
+      "tag":"Conference",
+   },
+   {
+      "tag":"Oracle",
+   },
+   {
+      "tag":"DAO",
+   },
+   {
+      "tag":"NFT",
+   },
+   {
+      "tag":"Other dApps",
+   },
+   {
+      "tag":"Captial/Tokenfund",
+   },
+   {
+      "tag":"Others",
+   }
 ]
